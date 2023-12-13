@@ -132,3 +132,57 @@ Here are a few examples:
 These examples showcase how you can use `AND` and `OR` functions to create more sophisticated conditions in your `IF` statements. Adjust the conditions based on your specific requirements and the data in your Excel sheet.
 </details>
 
+# Lookup
+
+Lookup functions in Excel are powerful tools for searching and retrieving information from a table or range of data. Here are some common lookup functions in Excel:
+
+1. **VLOOKUP (Vertical Lookup):**
+   - Searches for a value in the first column of a table and returns a value in the same row from another column.
+     ```excel
+     =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+     ```
+     Example:
+     ```excel
+     =VLOOKUP(A1, $B$2:$D$10, 3, FALSE)
+     ```
+
+2. **HLOOKUP (Horizontal Lookup):**
+   - Searches for a value in the first row of a table and returns a value in the same column from another row.
+     ```excel
+     =HLOOKUP(lookup_value, table_array, row_index_num, [range_lookup])
+     ```
+     Example:
+     ```excel
+     =HLOOKUP(A1, $B$2:$D$10, 2, FALSE)
+     ```
+
+3. **LOOKUP:**
+   - Searches for a value in a range or array and returns a corresponding value from the same position in another range or array.
+     ```excel
+     =LOOKUP(lookup_value, lookup_vector, result_vector)
+     ```
+     Example:
+     ```excel
+     =LOOKUP(A1, $B$2:$B$10, $C$2:$C$10)
+     ```
+
+4. **INDEX and MATCH (Dynamic Lookup):**
+   - Uses the combination of the INDEX and MATCH functions to perform flexible lookups.
+     ```excel
+     =INDEX(return_range, MATCH(lookup_value, lookup_range, 0))
+     ```
+     Example:
+     ```excel
+     =INDEX($C$2:$C$10, MATCH(A1, $B$2:$B$10, 0))
+     ```
+
+5. **XLOOKUP (Modern Lookup):**
+   - Searches a range or array, and returns an item corresponding to the first match it finds.
+     ```excel
+     =XLOOKUP(lookup_value, lookup_array, return_array, [if_not_found], [match_mode], [search_mode])
+     ```
+     Example:
+     ```excel
+     =XLOOKUP(A1, $B$2:$B$10, $C$2:$C$10, "Not Found", 0, 1)
+     ```
+
