@@ -4,6 +4,51 @@
    
 ![image](https://github.com/Data-Portofolio/excel/assets/133883292/244f86f5-e157-40e2-8bb2-438ca6ada80c)
 
+<br>
+
+1. **Pintasan Navigasi:**
+   - **Tombol Panah:** Pindah satu sel ke arah panah.
+   - **Ctrl + Tombol Panah:** Pindah ke tepi wilayah data.
+   - **Ctrl + Beranda:** Pindah ke awal lembar kerja.
+   - **Ctrl + Akhir:** Pindah ke sel terakhir dengan data.
+   - **Ctrl + Page Up/Page Down:** Beralih antara tab lembar kerja.
+
+2. **Pintasan Seleksi:**
+   - **Shift + Tombol Panah:** Perluas seleksi ke arah panah.
+   - **Ctrl + Spasi:** Pilih seluruh kolom.
+   - **Shift + Spasi:** Pilih seluruh baris.
+   - **Ctrl + A:** Pilih seluruh lembar kerja.
+
+3. **Pintasan Pengeditan:**
+   - **F2:** Edit sel aktif.
+   - **Ctrl + C:** Salin sel yang dipilih.
+   - **Ctrl + X:** Potong sel yang dipilih.
+   - **Ctrl + V:** Tempel sel yang disalin/dipotong.
+   - **Ctrl + Z:** Batalkan tindakan terakhir.
+   - **Ctrl + Y:** Ulangi tindakan yang terakhir dibatalkan.
+
+4. **Pintasan Format:**
+   - **Ctrl + B:** Tebal.
+   - **Ctrl + I:** Miring.
+   - **Ctrl + U:** Garis bawah.
+   - **Ctrl + 1:** Dialog format sel.
+   - **Ctrl + Shift + $:** Terapkan format mata uang.
+   - **Ctrl + Shift + %:** Terapkan format persentase.
+
+5. **Pintasan Fungsi:**
+   - **Alt + =:** AutoJumlah.
+   - **Ctrl + Shift + L:** Alih filter.
+   - **Ctrl + `:** Tampilkan rumus.
+   - **Ctrl + Shift + (+):** Sisipkan sel baru.
+   - **Ctrl + (-):** Hapus sel.
+
+6. **Pintasan Lain-lain:**
+   - **Ctrl + S:** Simpan.
+   - **F12:** Simpan Sebagai.
+   - **Ctrl + P:** Cetak.
+   - **Ctrl + F:** Cari.
+   - **Ctrl + H:** Ganti.
+
 </details>
 
 # Text Manipulation Fuction 
