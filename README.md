@@ -237,4 +237,11 @@ Lookup functions in Excel are powerful tools for searching and retrieving inform
      ```excel
      =XLOOKUP(A1, $B$2:$B$10, $C$2:$C$10, "Not Found", 0, 1)
      ```
+# Data Visualization
+
+![image](https://github.com/Data-Portofolio/excel/assets/133883292/852b9be0-118a-40a3-a504-fbd770af4bea)
+
+![image](https://github.com/Data-Portofolio/excel/assets/133883292/665f8c43-34c5-4f03-bcc0-df23f98b4686)
+
+
 
