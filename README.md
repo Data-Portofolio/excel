@@ -238,7 +238,7 @@ Lookup functions in Excel are powerful tools for searching and retrieving inform
      =XLOOKUP(A1, $B$2:$B$10, $C$2:$C$10, "Not Found", 0, 1)
      ```
 # Math Function
-### Statistic
+## STATISTICS
 Excel menyediakan berbagai fungsi statistik yang memungkinkan Anda menganalisis dan merangkum data. Berikut adalah beberapa fungsi statistik umum di Excel:
 
 1. **SUM:**
