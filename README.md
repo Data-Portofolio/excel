@@ -237,11 +237,107 @@ Lookup functions in Excel are powerful tools for searching and retrieving inform
      ```excel
      =XLOOKUP(A1, $B$2:$B$10, $C$2:$C$10, "Not Found", 0, 1)
      ```
+# Math Function
+### Statistic
+Excel menyediakan berbagai fungsi statistik yang memungkinkan Anda menganalisis dan merangkum data. Berikut adalah beberapa fungsi statistik umum di Excel:
+
+1. **SUM:**
+   - Menjumlahkan seluruh angka dalam rentang sel.
+
+   ```excel
+   =SUM(A1:A10)
+   ```
+
+2. **AVERAGE:**
+   - Menghitung rata-rata dari angka dalam rentang sel.
+
+   ```excel
+   =AVERAGE(B1:B10)
+   ```
+
+3. **COUNT:**
+   - Menghitung jumlah sel dalam rentang yang berisi angka.
+
+   ```excel
+   =COUNT(C1:C10)
+   ```
+
+4. **MIN:**
+   - Menemukan nilai terkecil dalam rentang sel.
+
+   ```excel
+   =MIN(D1:D10)
+   ```
+
+5. **MAX:**
+   - Menemukan nilai terbesar dalam rentang sel.
+
+   ```excel
+   =MAX(E1:E10)
+   ```
+
+6. **STDEV:**
+   - Menghitung deviasi standar dari sampel.
+
+   ```excel
+   =STDEV(F1:F10)
+   ```
+
+7. **STDEVP:**
+   - Menghitung deviasi standar dari populasi.
+
+   ```excel
+   =STDEVP(G1:G10)
+   ```
+
+8. **VAR:**
+   - Menghitung varians dari sampel.
+
+   ```excel
+   =VAR(H1:H10)
+   ```
+
+9. **VARP:**
+   - Menghitung varians dari populasi.
+
+   ```excel
+   =VARP(I1:I10)
+   ```
+
+10. **QUARTILE:**
+    - Mengembalikan kuartil dari rentang sel tertentu.
+
+    ```excel
+    =QUARTILE(J1:J10, 2)  // Mengembalikan median (kuartil ke-2).
+    ```
+
+11. **PERCENTILE:**
+    - Mengembalikan persentil ke-k dari rentang sel.
+
+    ```excel
+    =PERCENTILE(K1:K10, 75)  // Mengembalikan persentil ke-75.
+    ```
+
+12. **MODE:**
+    - Mengembalikan nilai yang paling sering muncul dalam rentang sel.
+
+    ```excel
+    =MODE.LO(N1:N10)  // Mengembalikan nilai paling rendah dari mode.
+    ```
+
+13. **RANK:**
+    - Mengembalikan peringkat suatu nilai dalam rentang sel.
+
+    ```excel
+    =RANK(O1, O1:O10)  // Mengembalikan peringkat nilai di sel O1 dalam rentang O1:O10.
+    ```
+
 # Data Visualization
 
 ![image](https://github.com/Data-Portofolio/excel/assets/133883292/852b9be0-118a-40a3-a504-fbd770af4bea)
 
 ![image](https://github.com/Data-Portofolio/excel/assets/133883292/665f8c43-34c5-4f03-bcc0-df23f98b4686)
 
+![image](https://github.com/Data-Portofolio/excel/assets/133883292/23fe6dc6-b853-45f0-aa4e-55268b2251b3)
 
 
