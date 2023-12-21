@@ -310,6 +310,8 @@ Excel menyediakan berbagai fungsi statistik yang memungkinkan Anda menganalisis 
     ```excel
     =QUARTILE(J1:J10, 2)  // Mengembalikan median (kuartil ke-2).
     ```
+    ![image](https://github.com/Data-Portofolio/excel/assets/133883292/3073f89b-7706-4c7b-a877-653009f75639)
+
 
 11. **PERCENTILE:**
     - Mengembalikan persentil ke-k dari rentang sel.
