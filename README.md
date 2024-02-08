@@ -1,5 +1,5 @@
 <details>
-   <summary>Shortcurt</summary>
+   <summary>📌 Shortcurt</summary>
    <br>
    
 ![image](https://github.com/Data-Portofolio/excel/assets/133883292/244f86f5-e157-40e2-8bb2-438ca6ada80c)
@@ -49,6 +49,9 @@
    - **Ctrl + F:** Cari.
    - **Ctrl + H:** Ganti.
 
+</details>
+
+<details>📌
 </details>
 
 # Text Manipulation Fuction 
