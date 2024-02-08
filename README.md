@@ -52,7 +52,9 @@
 </details>
 
 <details><summary>📌Excel CheatSheet</summary>
-   
+   <br>
+![Excel_Cheat_Sheet_page-0001 (1)](https://github.com/Data-Portofolio/excel/assets/133883292/2dbda28b-a661-4d9f-907b-817b7190e205)
+  
 </details>
 
 # Text Manipulation Fuction 
