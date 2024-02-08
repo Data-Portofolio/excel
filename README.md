@@ -53,7 +53,6 @@
 
 <details><summary>📌Excel CheatSheet</summary>
    
-   https://github.com/Data-Portofolio/excel/blob/main/Excel_Cheat_Sheet.pdf
 </details>
 
 # Text Manipulation Fuction 
