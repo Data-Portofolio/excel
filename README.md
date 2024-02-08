@@ -336,6 +336,39 @@ Excel menyediakan berbagai fungsi statistik yang memungkinkan Anda menganalisis 
 
 # Data Visualization
 
+###  Jenis-Jenis Grafik
+
+**1. Column/Bar Chart**
+
+Jenis grafik ini biasanya digunakan jika ingin menampilkan kategori:
+● Rentang nilai, contohnya seperti jumlah item.
+● Pengaturan skala tertentu, seperti skala Sangat Setuju, Setuju, Netral, Tidak setuju dan Sangat tidak setuju
+
+**2. Line Chart***
+
+Memperlihatkan data berkelanjutan dari waktu ke waktu pada sumbu
+berskala sehingga cocok untuk menampilkan tren data pada interval tertentu seperti bulan,
+kuartal atau tahun. 
+
+**3. Pie Chart**
+
+Pie chart menampilkan perbandingan ukuran persentase item dalam
+satu seri data terhadap jumlah item ke dalam bentuk lingkaran
+
+Jenis grafik ini biasanya digunakan ketika:
+● Hanya memiliki satu seri data.
+● Hampir tidak ada nilai dalam data yang merupakan nilai nol.
+● Tidak memiliki nilai dalam data yang negatif.
+● Memiliki tidak lebih dari tujuh kategori yang semuanya mewakili
+keseluruhan bagian pie.
+
+**4. Combo Chart**
+
+Combo chart menampilkan data dengan menggabungkan dua atau lebih jenis grafik ke
+dalamnya. Cara ini dilakukan agar data semakin mudah dipahami terutama ketika ingin
+menyoroti variasi data yang berbeda. Salah satu contoh format combo chart yang paling umum digunakan adalah gabungan
+grafik garis dan batang
+
 ![image](https://github.com/Data-Portofolio/excel/assets/133883292/852b9be0-118a-40a3-a504-fbd770af4bea)
 
 ![image](https://github.com/Data-Portofolio/excel/assets/133883292/665f8c43-34c5-4f03-bcc0-df23f98b4686)
